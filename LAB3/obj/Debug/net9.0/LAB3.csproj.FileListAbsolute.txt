@@ -1,4 +1,0 @@
-C:\Users\Matei\.net_probleme\LAB3\LAB3\obj\Debug\net9.0\LAB3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Matei\.net_probleme\LAB3\LAB3\obj\Debug\net9.0\LAB3.AssemblyInfoInputs.cache
-C:\Users\Matei\.net_probleme\LAB3\LAB3\obj\Debug\net9.0\LAB3.AssemblyInfo.cs
-C:\Users\Matei\.net_probleme\LAB3\LAB3\obj\Debug\net9.0\LAB3.csproj.CoreCompileInputs.cache
